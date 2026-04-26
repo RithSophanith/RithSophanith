@@ -78,6 +78,12 @@
 
 ### GitHub Activity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RithSophanith/RithSophanith/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RithSophanith/RithSophanith/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RithSophanith/RithSophanith/output/pacman-contribution-graph.svg">
+</picture>
+
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=KhornVictor&show_icons=true&theme=default&hide_border=true&title_color=d63384&icon_color=f06595&text_color=495057" />
   <img height="160" src="https://streak-stats.demolab.com?user=KhornVictor&theme=default&hide_border=true&ring=f783ac&fire=fa5252&currStreakLabel=d63384" />
